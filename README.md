@@ -44,11 +44,11 @@
 
 ---
 
-<a >
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=default-007&layout=compact&show_icons=true&hide_border=true&theme=radical" />
+<div >
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=default-007&layout=compact&show_icons=true&hide_border=true&theme=radical" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=default-007&show_icons=true&hide_border=true&theme=radical" />
-</a>
+</div>
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
