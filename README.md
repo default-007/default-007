@@ -46,10 +46,10 @@
 ---
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=default-007&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=default-007&show_icons=true&hide_border=true&theme=radical" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=default-007&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=default-007&layout=compact" />
 </a>
 <details>
   <summary>:zap: GitHub Stats</summary>
