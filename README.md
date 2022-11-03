@@ -7,7 +7,7 @@
 ## I'm a Aviator, Developer, and Data Scientist
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other programmers
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me
