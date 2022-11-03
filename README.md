@@ -49,9 +49,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=default-007&show_icons=true&hide_border=true&theme=radical" />
 </div>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://
+[twitter]: https://twitter.com/
+[youtube]: https://youtube.com/
+[instagram]: https://instagram.com/
+[linkedin]: https://linkedin.com/in/brian-otieno
